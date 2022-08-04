@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ntec364mmm-pirarduinodata",
+  "private_key_id": "7f9f10bfa4f4db0f7a17ca04d06ca725f16f8f77",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrDhH1O4uPAS4H\nNm440LMLZ/+zNxpfvySzQ1VuIb7V3TLJbo8ox+BVyVwv/dOsoglLB2841neXMRj/\n3vZS5m8m4lImdmbe1dSMzv0XV3wB2nsJ+5tVOZUlof1KLUcqjqNoqFZIaU0rtxE7\nwco78PPMr/bwiFTVfx3XNxT/YFP3YqHcqfHhPRPqwivT5OvcQ/2VS1Bc/G0chpyJ\nXKHsVWHw8PjyM96zVqr3Ln3vxNFAKldMUB1vvRF+RIPLKhm3zhVWjqeU3qKrZ98N\nFXWQWTQaSBBDtoIFvFG7RjN5nePY9QptgXsp2vZWUhQhQ7cCciBmiWAyUuJ6FI0T\n5SR7sfZJAgMBAAECggEAQiSDKiX3vXjR0QUpkruUeBUjSSvF/X7+VHj1aEwRLEZH\ntJ8VKUo8gz+E76PBPXA8krARwFMh1CsuhQY0jnK/STRbWrcO6Rya/0WslOGFuHvA\ndug9NLO66d3dANlIOvsD0dzB3GcnaX904Pv61LnDtALYxEKbNyDbq5QHgQZBAZeV\nLp9euWu4uhl773H1R9ZJUehsnx53Ug18rIj5MIAyaZtPPC/bzpEBSBVAnBZRdFsU\nPBvfhz73S2vQLooksIwdRAm/mXk7YDU1gd9yFjuQ017PdCFPesjWlk7d3kMKe2xb\nMvkuSQt9Q/6R3RwtjXvh9BkD6quGYW/0l3fUVJqsNwKBgQDwAurg7tEqi09jHsS3\nrUib90jeNdmZk8EOkFzCToH6DHaz2T+3cCE6bm8EA07ZBESWpIj/Z5gHJ50PZerG\niFzvLsCvm6XJ31iMAO8phzOcNU3MH2nMpfo2e2JGxR1rkXZgKZ20U7m+7a0mya0f\n7jnH+NXpOrl9/UfW/xeoaV7cQwKBgQC2czC0iTHMXy20xZ0EU8xMoNsZKfLVEIT0\ne4f13c7Zx4nF5emSUwkSt0hSNtziKMoIIAvQiw01l2RJDzNCxc6qSxIOBiJWCERX\ntW3s+qYgKTr9088qKZKp5gX6Cdbmb90xge1pUeRHKwYPMTCqEGb2NkL0FrlcHQJP\n7O0BRGfAgwKBgG7nOjdDwx0gkEdh8U5aYOHIyz/6rBjeAGhFZsdWVZMAbV0/dsTB\nqGkCnIPDL4zx/uuJDdDOwp4TvOxfkLO6UQ8okFrU1i/I53aR+/E5iyyUKOW4Yj/x\nNgQ00T2YWbbZ2VQoBrpLsdm6o7b3m+rUPpjbr6R8wTepcKe06e6k+fNXAoGAefSP\nhu358pFgfOhm54CYHFSdf7mRjyhGpyF3pTpJzTra9gST13JXq0IGPqZbiXUYbsv0\n+cYo4zy6FTfq3ORaG2youeURyI4oGLS2sORubSsCOq79WEKHvbd7IUK4ejomEbS2\nnGLYA1ZX64nG7LagDE4C/SO/bToa1JAbcHBoJb8CgYEA21qvou1Jjg4xsROpJy0w\nRTWxpCAJNNrj8V/kIDEV/KH/SFyfgIMvshdf2D3RsZm1KoJt3YLLzUsQUlWe/ngc\nKw2f02eXmIlbRsL5nmP2hZMfJ+6FxCu/DGSlwzSAZ5piVN/YotWDJTCtfmE6xb1s\nUfDcYSItyYle5Em3MvsWtmA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mmmmoduleupload@ntec364mmm-pirarduinodata.iam.gserviceaccount.com",
+  "client_id": "115371348456660271183",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mmmmoduleupload%40ntec364mmm-pirarduinodata.iam.gserviceaccount.com"
+}

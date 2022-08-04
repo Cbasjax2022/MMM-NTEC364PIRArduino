@@ -1,7 +1,7 @@
 
-Module.register('MMM-PIRArduino',{
-	
-	
+Module.register('MMM-NTEC364PIRArduino', {
+
+
 	defaults: {
 		sensorPIN: 26,
 		relayPIN: false,
@@ -11,24 +11,24 @@ Module.register('MMM-PIRArduino',{
 		brightness: 0,
 		timeout: 60,
 	},
-	
-	
-	notificationReceived: function(notification, payload, sender) {
-		console.log('Received notification: ' + notification +', payload: ' + payload);
+
+
+	notificationReceived: function (notification, payload, sender) {
+		console.log('Received notification: ' + notification + ', payload: ' + payload);
 		if (notification == "BRIGHTNESS") {
 			this.config.brightness = payload;
 			Log.info(this.name + " received " + notification + " and set brightness to " + this.config.brightness);
 			this.sendSocketNotification("BRIGHTNESS", payload);
 			//Log.log(this.name + " received a module notification: " + notification + " from sender: " + sender.name);
-		} 
+		}
 	},
-	
-	start: function() {
+
+	start: function () {
 		//this.pressed = false;
-		if (this.config.relayOnState == 1){
+		if (this.config.relayOnState == 1) {
 			this.config.relayOffState = 0
 		}
-		else if (this.config.relayOnState == 0){
+		else if (this.config.relayOnState == 0) {
 			this.config.relayOffState = 1
 		}
 		this.sendSocketNotification('CONFIG', this.config);
